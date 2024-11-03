@@ -1,6 +1,6 @@
 # Race Condition
 
-A race condition occurs when two or more processes or threads try to access and modify shared data simultaneously.
+A race condition occurs when two or more processes or threads try to access and modify shared data simultaneously..
 
 # Output
 
